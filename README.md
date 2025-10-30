@@ -1,8 +1,8 @@
 # Rail-Defect-Detection
-This project focuses on detecting defects inside **MRT coaches** using deep learning models.   It was developed in collaboration with **SBS Transit** as part of an initiative to enhance rail maintenance and inspection processes in Singapore.
+This project focuses on detecting defects inside **MRT coaches** using deep learning models.   It was developed in collaboration with **SBS Transit** as part of an initiative to enhance rail maintenance and inspection processes in Singapore. Prediction Accuracy of **99.4%**
 
 ##  Objective
-To automatically identify and classify potential visual defects (e.g., cracks, surface wear, loose fittings) in MRT coach interiors from inspection imagery.
+To automatically identify and classify potential visual defects (e.g., light issues, grab handle or door panel issues) in MRT coach interiors from inspection imagery.
 
 ---
 
